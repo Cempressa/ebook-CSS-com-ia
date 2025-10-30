@@ -76,10 +76,7 @@ Utilize os prompts acima nas ferramentas indicadas para gerar o conteúdo base. 
 ## 👨‍💻 Autor
 
 <p>
-    <img 
-      align="left" 
-      width="80" 
-     
+    
     />
     
     <a href="https://github.com/Cempressa">GitHub</a>&nbsp;|&nbsp;
