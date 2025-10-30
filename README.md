@@ -40,7 +40,7 @@ Este projeto tem como objetivo gerar um eBook digital com auxílio de ferramenta
 
 |   Ação   | Prompt |
 | :------: | ------ |
-| Título   | Crie um título de um eBook sobre CSS com temática Star Wars. Liste 5 variações épicas e curtas. |
+| Título   | Crie um título de um eBook sobre CSS com temática Star Wars. |
 | Conteúdo | Faça um texto para eBook com foco em CSS, listando os principais seletores com exemplos reais e explicações simples. |
 
 ### MidJourney
