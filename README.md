@@ -1,20 +1,96 @@
-# 📘 eBook CSS com IA
+<p align="center">
+    <img width="100" src=".github/assets/banner.png">
+</p>
 
-Este projeto apresenta um eBook criado com auxílio de ferramentas de inteligência artificial, focado em ensinar conceitos de CSS de forma prática e acessível.
+<p align="center">
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&logoColor=white" alt="Made with Bash"></a>
+</p>
 
-## 📂 Estrutura do projeto
+-------
 
-- **prompts/**: comandos utilizados para gerar conteúdo com IA
-- **assets/**: imagens e recursos visuais usados no eBook
-- **output/**: versão final do eBook
-- **README.md**: descrição e instruções do projeto
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="400"  
+/>
+</p>
 
-## 🛠️ Ferramentas utilizadas
+# Projeto EBOOK CSS com IA
 
-- Microsoft Copilot
-- GitHub
-- Figma (template visual)
+> ℹ️ **NOTA:** Este repositório foi desenvolvido como parte do curso [Plano Fullstack](https://github.com/Cempressa/Plano-Fullstack), ministrado na plataforma [DIO](https://dio.me)
 
-## 👤 Autor
+Este projeto tem como objetivo gerar um eBook digital com auxílio de ferramentas de inteligência artificial, abordando conceitos de CSS com uma temática inspirada em Star Wars. Todos os prompts utilizados estão documentados abaixo.
 
-Marcos — Indaiatuba/SP
+📕 [Clique aqui para ler o eBook](./output/ebook-css-jedi.pdf)
+
+---
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [Microsoft Copilot](https://copilot.microsoft.com)
+- [MidJourney](https://www.midjourney.com/app/)
+- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
+
+---
+
+## 🧠 Prompts utilizados
+
+### ChatGPT
+
+|   Ação   | Prompt |
+| :------: | ------ |
+| Título   | Crie um título de um eBook sobre CSS com temática Star Wars. Liste 5 variações épicas e curtas. |
+| Conteúdo | Faça um texto para eBook com foco em CSS, listando os principais seletores com exemplos reais e explicações simples. |
+
+### MidJourney
+
+| Ação  | Prompt |
+| :---: | ------ |
+| Capa  | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+
+---
+
+## ✨ Features
+
+- Conteúdo gerado via Copilot e ChatGPT
+- Imagens criadas com MidJourney
+- Diagramação feita com PowerPoint
+
+---
+
+## 📚 Materiais
+
+- Imagens utilizadas em `assets/`
+- Versão final do eBook em `output/`
+- Prompts organizados em `prompts/`
+
+---
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts acima nas ferramentas indicadas para gerar o conteúdo base. Em seguida, use uma ferramenta de edição como PowerPoint, LibreOffice ou InDesign para diagramar o eBook.
+
+---
+
+## 👨‍💻 Autor
+
+<p>
+    <img 
+      align="left" 
+      width="80" 
+      src="./assets/marcos.png"
+    />
+    <p>&nbsp;&nbsp;&nbsp;<strong>Marcos Bertoldi</strong><br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Cempressa">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/seu-perfil">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/seu-perfil">Instagram</a>
+    </p>
+</p>
+
+<br/><br/>
+
+---
+
+⌨️ com 💜 por [Marcos Luiz](https://github.com/Cempressa)
