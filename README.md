@@ -84,13 +84,12 @@ Utilize os prompts acima nas ferramentas indicadas para gerar o conteúdo base. 
     <p>&nbsp;&nbsp;&nbsp;<strong>Marcos Bertoldi</strong><br>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Cempressa">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/seu-perfil">LinkedIn</a>&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/seu-perfil">Instagram</a>
+    <a href="https://www.linkedin.com/in/marcos-l-45a40025/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/marckos_luiz/)">Instagram</a>
     </p>
 </p>
 
 <br/><br/>
 
 ---
-
-⌨️ com 💜 por [Marcos Luiz](https://github.com/Cempressa)
+ [Marcos Luiz](https://github.com/Cempressa)
