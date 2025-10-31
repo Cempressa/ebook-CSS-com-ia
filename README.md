@@ -18,7 +18,7 @@
 
 # Projeto EBOOK CSS com IA
 
-> ℹ️ **NOTA:** Este repositório foi desenvolvido como parte do curso [Plano Fullstack](https://github.com/Cempressa/Plano-Fullstack), ministrado na plataforma [DIO](https://dio.me)
+> ℹ️ **NOTA:** Este repositório foi desenvolvido como parte do curso (Universia - Fundamentos de IA Generativa), ministrado na plataforma [DIO](https://dio.me)
 
 Este projeto tem como objetivo gerar um eBook digital com auxílio de ferramentas de inteligência artificial, abordando conceitos de CSS com uma temática inspirada em Star Wars. Todos os prompts utilizados estão documentados abaixo.
 
@@ -76,14 +76,12 @@ Utilize os prompts acima nas ferramentas indicadas para gerar o conteúdo base. 
 ## 👨‍💻 Autor
 
 <p>
-    
-    />
-    
-    <a href="https://github.com/Cempressa">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/marcos-l-45a40025/">LinkedIn</a>&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/marckos_luiz/)">Instagram</a>
-    </p>
+  <strong>Marcos Luiz</strong><br>
+  <a href="https://github.com/Cempressa">GitHub</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/marcos-l-45a40025/">LinkedIn</a>&nbsp;|&nbsp;
+  <a href="https://www.instagram.com/marckos_luiz/">Instagram</a>
 </p>
+
 
 <br/><br/>
 
